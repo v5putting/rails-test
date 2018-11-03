@@ -7,4 +7,7 @@ class StaticPagesController < ApplicationController
 
   def news
   end
+
+  def home
+  end
 end
